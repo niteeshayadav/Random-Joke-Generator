@@ -41,8 +41,7 @@ It’s a simple yet practical project built to practice core JavaScript concepts
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:**  
-niteeshayadav.github.io/Random-Joke-Generator/
+🔗 **Live Site:**  niteeshayadav.github.io/Random-Joke-Generator
 
 ---
 
